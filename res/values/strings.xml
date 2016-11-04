@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceBroadcast</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="switch_voice_on">开始整点报时</string>
+    <string name="switch_voice_off">关闭整点报时</string>
+</resources>
